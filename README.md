@@ -13,30 +13,12 @@ Delete Members: Remove members from the library system.
 Checkout Books: Allow members to borrow books from the library.
 Return Books: Facilitate the return of borrowed books.
 Reserve Books: Members can reserve books that are currently checked out.
-Cancel Reservations: Cancel previously made reservations.
 Search Functionality: Search for books or members by relevant details.
-Generate Reports: Get summaries of books and members in the library.
 📦 Getting Started
 Prerequisites
 C++ Compiler (GCC, Clang, etc.)
 Basic understanding of C++ programming.
-Installation
-Clone the Repository
-bash
 
-Copy
-git clone https://github.com/your-repo/e-library-management-system.git
-cd e-library-management-system
-Compile the Code
-bash
-
-Copy
-g++ main.cpp -o e-library
-Run the Application
-bash
-
-Copy
-./e-library
 🛠️ Usage
 Follow the prompts in the console to navigate through the functionalities.
 Use the corresponding numbers to perform actions like adding books, checking out books, etc.
